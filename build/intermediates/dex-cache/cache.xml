@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\Pepper\app\build\intermediates\exploded-aar\com.aldebaran\qichatplayer\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="5658d8a08baebd751a2a06f17c14e779c5f52fe6">
+        <dex dex="D:\Android\Pepper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.aldebaran-qichatplayer-1.0.1_1b40ff46c0e633a75e949c2f702683af4a887e88\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\Pepper\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="D:\Android\Pepper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_044e117059fc472ad61d3bd87fca2d068ae95d75\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\isen\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android\Pepper\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0bb982fa8cac64c60666f3a9dc5b7285ba9ba291\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\Pepper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android\Pepper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_037b62df799d97df69fbb7e2f0e4661052077e52\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\Pepper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android\Pepper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_baecefd72f32528ea0e5deb55744ab88fd9a19bb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\Pepper\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android\Pepper\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a12c6c2129938612feb9f3600a7a7a9038632632\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\isen\.gradle\caches\modules-2\files-2.1\com.aldebaran\libqi-java-android\sdk-2016-05-16\faa6f8561c1186d44adb1a07781b5caa6ceca789\libqi-java-android-sdk-2016-05-16.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="faa6f8561c1186d44adb1a07781b5caa6ceca789">
+        <dex dex="D:\Android\Pepper\app\build\intermediates\transforms\dex\debug\folders\1000\10\libqi-java-android-sdk-2016-05-16_108a2970003ac135a27d497e2678ed5a120ae04f\classes.dex" />
+    </item>
+
+</items>
